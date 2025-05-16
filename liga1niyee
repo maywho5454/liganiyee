@@ -1,5 +1,11 @@
 #EXTINF:-1 group-logo="https://i.imgur.com/oM2YSxv.jpeg",BOLA | BRI LIGA 1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="0BOLA | BRI LIGA 1",Indosiar bolaa
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",Indosiar bola 1 (RT)
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12
 https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oM2YSxv.jpeg" group-title="BOLA | BRI LIGA 1",Indosiar bola 2 (RT)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624
